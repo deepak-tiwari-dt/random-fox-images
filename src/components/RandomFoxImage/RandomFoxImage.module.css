@@ -1,0 +1,7 @@
+.foxImage {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 1rem;
+  border: 0.1rem solid greenyellow;
+  box-shadow: 0 0 1rem 0 black;
+}
